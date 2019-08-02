@@ -1,0 +1,19 @@
+{
+  "name": "todotut",
+  "version": "1.0.0",
+  "description": "todo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccc8212/todotut.git"
+  },
+  "author": "Cucutianu Catalin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccc8212/todotut/issues"
+  },
+  "homepage": "https://github.com/ccc8212/todotut#readme"
+}
